@@ -1,0 +1,33 @@
+				
+				 /\
+				/  \            /\
+			 /\    /    \    /\    /  \
+			/  \  /      \  /  \  /    \
+                      /     \/        \/    \/      \
+                      * Welcome to Avalanche Extreme! *
+                      *********************************
+
+Welcome to Mount Joy, the best ski mountain in the world!
+Unfortunately, climate change has increased the frequency of avalanches
+and a deadly one just started nearby. 
+
+In this game, you'll need to ski down the mountain while avoiding snowballs created by the avalanche as well as trees. Collisions with snowballs and trees will reduce your health score. Try to catch flags for flag points!
+
+KEYBOARD COMMANDS:
+
+    [<] = ski left
+    [<<] = accelerate left
+    [>] = ski right
+    [>>] = accelerate right
+
+HOW TO PLAY:
+- Begin with a healthscore of 100
+- Move player left and right to avoid trees and snowballs. 
+- Catch flags for flag points
+- The game re-starts when your healthscore reaches 0
+
+SOURCES:
+Background image from: https://www.freevector.com/free-vector-winter-background-with-snow-18962
+Other images are owned and copyrighted by Joy Moglia
+Music is "80s Kakatua" from DL Sounds
+Last updated: March 13, 2021
